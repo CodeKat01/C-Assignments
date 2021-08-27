@@ -1,5 +1,5 @@
 
-// Created by Dimwit
+// Created by shuence
 
 #include<stdio.h>
 //#include<conio.h>
